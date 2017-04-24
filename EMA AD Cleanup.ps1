@@ -37,13 +37,13 @@ $Site6IPRange = "\b(?:(?:192)\.)" + "\b(?:(?:168)\.)" + "\b(?:(?:6)\.)" + "\b(?:
 $DisabledDN = "OU=Disabled Computers,DC=tucson,DC=local" 
  
 # OU Locations 
-$Site0DN = "OU=Site0,OU=Computers,OU=MyBusiness,DC=tucson,DC=local" 
-$Site1DN = "OU=Site1,OU=Computers,OU=MyBusiness,DC=tucson,DC=local" 
-$Site2DN = "OU=Site2,OU=Computers,OU=MyBusiness,DC=tucson,DC=local" 
-$Site3DN = "OU=Site3,OU=Computers,OU=MyBusiness,DC=tucson,DC=local" 
-$Site4DN = "OU=Site4,OU=Computers,OU=MyBusiness,DC=tucson,DC=local" 
-$Site5DN = "OU=Site5,OU=Computers,OU=MyBusiness,DC=tucson,DC=local" 
-$Site6DN = "OU=Site6,OU=Computers,OU=MyBusiness,DC=tucson,DC=local" 
+$Site0DN = "OU=PHX,OU=Computers,OU=MyBusiness,DC=tucson,DC=local" 
+$Site1DN = "OU=TUC,OU=Computers,OU=MyBusiness,DC=tucson,DC=local" 
+$Site2DN = "OU=SA,OU=Computers,OU=MyBusiness,DC=tucson,DC=local" 
+$Site3DN = "OU=DEN,OU=Computers,OU=MyBusiness,DC=tucson,DC=local" 
+$Site4DN = "OU=PERU,OU=Computers,OU=MyBusiness,DC=tucson,DC=local" 
+$Site5DN = "OU=SAC,OU=Computers,OU=MyBusiness,DC=tucson,DC=local" 
+$Site6DN = "OU=SLC,OU=Computers,OU=MyBusiness,DC=tucson,DC=local" 
  
 ############### 
 # The process # 
